@@ -7,7 +7,6 @@ Nebula is a Chrome extension designed to enhance your browsing experience by tra
 ## ✨ Features
 
 - **🖼️ Inspirational Backgrounds**: Enjoy stunning, high-quality images every time you open a new tab.
-- **⏳ Daily Focus**: Set a main goal for the day to stay on track.
 - **🕰️ Time & Weather**: Get real-time weather updates and a sleek clock display.
 - **📝 Quick Notes & To-Do**: Jot down ideas and tasks effortlessly.
 - **📖 Motivational Quotes**: Get inspired with a new quote each day.
