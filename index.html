@@ -16,13 +16,17 @@
     <script src="services/todo.js"></script>
     <style>
       .mainbg {
-        height: 100vh;
+        width: 100%;
+        min-height: 100vh; /* Ensures full viewport height but expands */
         background-repeat: no-repeat;
         background-size: cover;
+        background-attachment: fixed; /* Keeps background fixed while content scrolls */
       }
+
       .trans {
         background-color: #0000007a;
-        height: 100vh;
+        min-height: 100vh;
+        width: 100%;
       }
     </style>
   </head>
@@ -76,7 +80,6 @@
               <div class="column is-half ml-6 has-text-weight-bold">
                 <div class="block has-text-weight-bold has-text-white">
                   <ul id="todoSection"></ul>
-                  
                 </div>
               </div>
             </div>
